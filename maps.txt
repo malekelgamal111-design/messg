@@ -1,0 +1,3642 @@
+Maps Count: 728
+
+ID: 1000
+Name: Desert
+Path: map/map/desert.7z
+TileSize: 256
+-------------------
+ID: 1001
+Name: Unknown
+Path: map/map/d_antre01.7z
+TileSize: 256
+-------------------
+ID: 1002
+Name: CentralPlain
+Path: map/map/newplain_new.7z
+TileSize: 128
+-------------------
+ID: 1003
+Name: Unknown
+Path: map/map/mine01.7z
+TileSize: 256
+-------------------
+ID: 1004
+Name: Unknown
+Path: map/map/forum01_new.7z
+TileSize: 128
+-------------------
+ID: 1005
+Name: Arena
+Path: map/map/arena.7z
+TileSize: 256
+-------------------
+ID: 1006
+Name: Unknown
+Path: map/map/horse.7z
+TileSize: 256
+-------------------
+ID: 1100
+Name: MoonPlatform
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1101
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1102
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1103
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1104
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1105
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1106
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1107
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1108
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1109
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 1010
+Name: Unknown
+Path: map/map/newbie.7z
+TileSize: 256
+-------------------
+ID: 1011
+Name: Forest
+Path: map/map/woods.7z
+TileSize: 256
+-------------------
+ID: 1012
+Name: Unknown
+Path: map/map/sky.7z
+TileSize: 256
+-------------------
+ID: 1013
+Name: Unknown
+Path: map/map/tiger.7z
+TileSize: 256
+-------------------
+ID: 1014
+Name: Unknown
+Path: map/map/dragon.7z
+TileSize: 256
+-------------------
+ID: 1015
+Name: Island
+Path: map/map/island.7z
+TileSize: 256
+-------------------
+ID: 1016
+Name: Unknown
+Path: map/map/qiling.7z
+TileSize: 256
+-------------------
+ID: 1018
+Name: Arena
+Path: map/map/p-arena.7z
+TileSize: 256
+-------------------
+ID: 1020
+Name: Canyon
+Path: map/map/canyon.7z
+TileSize: 256
+-------------------
+ID: 1021
+Name: Unknown
+Path: map/map/mine.7z
+TileSize: 256
+-------------------
+ID: 1025
+Name: Unknown
+Path: map/map/mine-one.7z
+TileSize: 256
+-------------------
+ID: 1026
+Name: Unknown
+Path: map/map/mine-two.7z
+TileSize: 256
+-------------------
+ID: 1027
+Name: Unknown
+Path: map/map/mine-three.7z
+TileSize: 256
+-------------------
+ID: 1028
+Name: Unknown
+Path: map/map/mine-four.7z
+TileSize: 256
+-------------------
+ID: 6000
+Name: PKerJail
+Path: map/map/prison.7z
+TileSize: 256
+-------------------
+ID: 1036
+Name: Market
+Path: map/map/street.7z
+TileSize: 256
+-------------------
+ID: 1038
+Name: Unknown
+Path: map/map/faction_new.7z
+TileSize: 128
+-------------------
+ID: 1039
+Name: TrainingGround
+Path: map/map/target.7z
+TileSize: 256
+-------------------
+ID: 1040
+Name: Unknown
+Path: map/map/skycut.7z
+TileSize: 256
+-------------------
+ID: 1041
+Name: Unknown
+Path: map/map/skymaze.7z
+TileSize: 256
+-------------------
+ID: 6001
+Name: Unknown
+Path: map/map/prison.7z
+TileSize: 256
+-------------------
+ID: 1042
+Name: PassPortal
+Path: map/map/lineup-pass.7z
+TileSize: 256
+-------------------
+ID: 1043
+Name: Peace
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1044
+Name: Chaos
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1045
+Name: Deserted
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1046
+Name: Prosperous
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1047
+Name: Disturbed
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1048
+Name: Calmed
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1049
+Name: Death
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1050
+Name: Life
+Path: map/map/lineup.7z
+TileSize: 256
+-------------------
+ID: 1060
+Name: Unknown
+Path: map/map/skymaze1.7z
+TileSize: 256
+-------------------
+ID: 1061
+Name: Unknown
+Path: map/map/skymaze2.7z
+TileSize: 256
+-------------------
+ID: 1062
+Name: Unknown
+Path: map/map/skymaze3.7z
+TileSize: 256
+-------------------
+ID: 1075
+Name: LoveCanyon(NewArea)
+Path: map/map/newcanyon.7z
+TileSize: 256
+-------------------
+ID: 1077
+Name: DesertCity(NewArea)
+Path: map/map/newdesert.7z
+TileSize: 256
+-------------------
+ID: 1078
+Name: Unknown
+Path: map/map/newisland.7z
+TileSize: 256
+-------------------
+ID: 1063
+Name: Unknown
+Path: map/map/riskisland.7z
+TileSize: 256
+-------------------
+ID: 1082
+Name: Unknown
+Path: map/map/idland-map.7z
+TileSize: 256
+-------------------
+ID: 1090
+Name: Unknown
+Path: map/map/parena-m.7z
+TileSize: 256
+-------------------
+ID: 1091
+Name: Unknown
+Path: map/map/parena-s.7z
+TileSize: 256
+-------------------
+ID: 1201
+Name: Unknown
+Path: map/map/task01.7z
+TileSize: 256
+-------------------
+ID: 1202
+Name: Unknown
+Path: map/map/task02.7z
+TileSize: 256
+-------------------
+ID: 1204
+Name: Unknown
+Path: map/map/task04.7z
+TileSize: 256
+-------------------
+ID: 1205
+Name: Unknown
+Path: map/map/task05.7z
+TileSize: 256
+-------------------
+ID: 1207
+Name: Unknown
+Path: map/map/task07.7z
+TileSize: 256
+-------------------
+ID: 1208
+Name: Unknown
+Path: map/map/task08.7z
+TileSize: 256
+-------------------
+ID: 1210
+Name: Unknown
+Path: map/map/task10.7z
+TileSize: 256
+-------------------
+ID: 1211
+Name: Unknown
+Path: map/map/task11.7z
+TileSize: 256
+-------------------
+ID: 1212
+Name: Unknown
+Path: map/map/island-snail.7z
+TileSize: 256
+-------------------
+ID: 1213
+Name: Unknown
+Path: map/map/desert-snail.7z
+TileSize: 256
+-------------------
+ID: 1214
+Name: Unknown
+Path: map/map/canyon-fairy.7z
+TileSize: 256
+-------------------
+ID: 1215
+Name: Unknown
+Path: map/map/woods-fairy.7z
+TileSize: 256
+-------------------
+ID: 1216
+Name: Unknown
+Path: map/map/newplain-fairy.7z
+TileSize: 256
+-------------------
+ID: 1500
+Name: Unknown
+Path: map/map/mine-a.7z
+TileSize: 256
+-------------------
+ID: 1503
+Name: Unknown
+Path: map/map/mine-d.7z
+TileSize: 256
+-------------------
+ID: 1351
+Name: Unknown
+Path: map/map/s-task01.7z
+TileSize: 256
+-------------------
+ID: 1352
+Name: Unknown
+Path: map/map/s-task02.7z
+TileSize: 256
+-------------------
+ID: 1353
+Name: Unknown
+Path: map/map/s-task03.7z
+TileSize: 256
+-------------------
+ID: 1354
+Name: Unknown
+Path: map/map/s-task04.7z
+TileSize: 256
+-------------------
+ID: 1360
+Name: Unknown
+Path: map/map/maidan-A.7z
+TileSize: 256
+-------------------
+ID: 1364
+Name: Unknown
+Path: map/map/maidan-E.7z
+TileSize: 256
+-------------------
+ID: 1508
+Name: Unknown
+Path: map/map/ympk.7z
+TileSize: 256
+-------------------
+ID: 1511
+Name: Unknown
+Path: map/map/furniturestore.7z
+TileSize: 128
+-------------------
+ID: 2021
+Name: Unknown
+Path: map/map/Dgate.7z
+TileSize: 128
+-------------------
+ID: 2022
+Name: Unknown
+Path: map/map/Dsquare.7z
+TileSize: 128
+-------------------
+ID: 2023
+Name: Unknown
+Path: map/map/Dcloister.7z
+TileSize: 128
+-------------------
+ID: 2024
+Name: Unknown
+Path: map/map/Dsigil.7z
+TileSize: 128
+-------------------
+ID: 1700
+Name: EvilAbyss
+Path: map/map/Gulf.7z
+TileSize: 128
+-------------------
+ID: 601
+Name: Unknown
+Path: map/map/Nhouse04.7z
+TileSize: 128
+-------------------
+ID: 700
+Name: Unknown
+Path: map/map/arena-none.7z
+TileSize: 256
+-------------------
+ID: 1765
+Name: Unknown
+Path: map/map/Nhouse04.7z
+TileSize: 128
+-------------------
+ID: 1762
+Name: Unknown
+Path: map/map/icecrypt-lev1.7z
+TileSize: 128
+-------------------
+ID: 1068
+Name: Unknown
+Path: map/map/forum.7z
+TileSize: 256
+-------------------
+ID: 1730
+Name: Unknown
+Path: map/map/fairylandPK-02.7z
+TileSize: 256
+-------------------
+ID: 1732
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 1734
+Name: Unknown
+Path: map/map/fairylandPK-06.7z
+TileSize: 256
+-------------------
+ID: 1735
+Name: Unknown
+Path: map/map/fairylandPK-07.7z
+TileSize: 256
+-------------------
+ID: 1812
+Name: Unknown
+Path: map/map/fairylandPK-10.7z
+TileSize: 256
+-------------------
+ID: 1813
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 1814
+Name: Unknown
+Path: map/map/fairylandPK-06.7z
+TileSize: 256
+-------------------
+ID: 1785
+Name: Unknown
+Path: map/map/Halloween2007a.7z
+TileSize: 256
+-------------------
+ID: 1786
+Name: Unknown
+Path: map/map/Halloween2007b.7z
+TileSize: 256
+-------------------
+ID: 1787
+Name: Unknown
+Path: map/map/Halloween2007boss.7z
+TileSize: 256
+-------------------
+ID: 1768
+Name: Unknown
+Path: map/map/sky.7z
+TileSize: 256
+-------------------
+ID: 1779
+Name: Unknown
+Path: map/map/slpk.7z
+TileSize: 256
+-------------------
+ID: 1780
+Name: Unknown
+Path: map/map/slpk.7z
+TileSize: 256
+-------------------
+ID: 1806
+Name: OrchidGarden
+Path: map/map/flower.7z
+TileSize: 256
+-------------------
+ID: 1733
+Name: Unknown
+Path: map/map/fairylandPK-05.7z
+TileSize: 256
+-------------------
+ID: 1737
+Name: Unknown
+Path: map/map/fairylandPK-10.7z
+TileSize: 256
+-------------------
+ID: 1801
+Name: Unknown
+Path: map/map/mission.7z
+TileSize: 128
+-------------------
+ID: 1770
+Name: Unknown
+Path: map/map/fairylandPK-02.7z
+TileSize: 256
+-------------------
+ID: 900000
+Name: Unknown
+Path: map/map/arena-none.7z
+TileSize: 256
+-------------------
+ID: 1993
+Name: Unknown
+Path: map/map/09Christmas04.7z
+TileSize: 128
+-------------------
+ID: 1950
+Name: Unknown
+Path: map/map/horserate.7z
+TileSize: 128
+-------------------
+ID: 1858
+Name: Unknown
+Path: map/map/poker.7z
+TileSize: 128
+-------------------
+ID: 1860
+Name: Unknown
+Path: map/map/poker02.7z
+TileSize: 128
+-------------------
+ID: 1862
+Name: Unknown
+Path: map/map/p-arena.7z
+TileSize: 256
+-------------------
+ID: 1771
+Name: Unknown
+Path: map/map/fairylandPK-03.7z
+TileSize: 256
+-------------------
+ID: 1772
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 1773
+Name: Unknown
+Path: map/map/fairylandPK-05.7z
+TileSize: 256
+-------------------
+ID: 1774
+Name: Unknown
+Path: map/map/fairylandPK-06.7z
+TileSize: 256
+-------------------
+ID: 1775
+Name: Unknown
+Path: map/map/fairylandPK-07.7z
+TileSize: 256
+-------------------
+ID: 1777
+Name: Unknown
+Path: map/map/fairylandPK-08.7z
+TileSize: 256
+-------------------
+ID: 1999
+Name: Unknown
+Path: map/map/icecrypt-lev3.7z
+TileSize: 128
+-------------------
+ID: 2054
+Name: Unknown
+Path: map/map/icecrypt-lev4.7z
+TileSize: 128
+-------------------
+ID: 2055
+Name: Unknown
+Path: map/map/icecrypt-lev5.7z
+TileSize: 128
+-------------------
+ID: 2056
+Name: Unknown
+Path: map/map/icecrypt-lev6.7z
+TileSize: 128
+-------------------
+ID: 8822
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8823
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8824
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8825
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8826
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8827
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8828
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8829
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8830
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8831
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8832
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8833
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8834
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8835
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8836
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8837
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8838
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 8839
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 2068
+Name: Unknown
+Path: map/map/pk.7z
+TileSize: 256
+-------------------
+ID: 2071
+Name: Unknown
+Path: map/map/bp-kingfight.7z
+TileSize: 256
+-------------------
+ID: 2080
+Name: Unknown
+Path: map/map/Nhouse03.7z
+TileSize: 128
+-------------------
+ID: 2057
+Name: Unknown
+Path: map/map/bp-flag.7z
+TileSize: 256
+-------------------
+ID: 2061
+Name: Unknown
+Path: map/map/horserate-d.7z
+TileSize: 256
+-------------------
+ID: 2062
+Name: Unknown
+Path: map/map/horserate-ic1.7z
+TileSize: 128
+-------------------
+ID: 2063
+Name: Unknown
+Path: map/map/horserate-ic2.7z
+TileSize: 128
+-------------------
+ID: 2064
+Name: Unknown
+Path: map/map/horserate-ic3.7z
+TileSize: 128
+-------------------
+ID: 2065
+Name: Unknown
+Path: map/map/horserate-is.7z
+TileSize: 256
+-------------------
+ID: 2066
+Name: Unknown
+Path: map/map/horserate-np.7z
+TileSize: 256
+-------------------
+ID: 2067
+Name: Unknown
+Path: map/map/horserate-w.7z
+TileSize: 256
+-------------------
+ID: 2090
+Name: Unknown
+Path: map/map/tiger01.7z
+TileSize: 256
+-------------------
+ID: 2102
+Name: Unknown
+Path: map/map/Nhouse04.7z
+TileSize: 128
+-------------------
+ID: 3024
+Name: Unknown
+Path: map/map/family.7z
+TileSize: 128
+-------------------
+ID: 3030
+Name: Unknown
+Path: map/map/climate_new.7z
+TileSize: 128
+-------------------
+ID: 3053
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 3055
+Name: GaleShallow
+Path: map/map/beach.7z
+TileSize: 128
+-------------------
+ID: 3056
+Name: Unknown
+Path: map/map/seabed01.7z
+TileSize: 128
+-------------------
+ID: 3071
+Name: Unknown
+Path: map/map/seabed02.7z
+TileSize: 128
+-------------------
+ID: 3081
+Name: Unknown
+Path: map/map/daily.7z
+TileSize: 256
+-------------------
+ID: 1361
+Name: Unknown
+Path: map/map/maidan-B.7z
+TileSize: 256
+-------------------
+ID: 1362
+Name: Unknown
+Path: map/map/maidan-C.7z
+TileSize: 256
+-------------------
+ID: 9964
+Name: Unknown
+Path: map/map/lead01.7z
+TileSize: 256
+-------------------
+ID: 9929
+Name: Unknown
+Path: map/map/horserate-s.7z
+TileSize: 256
+-------------------
+ID: 9972
+Name: Unknown
+Path: map/map/n-daily.7z
+TileSize: 256
+-------------------
+ID: 1927
+Name: FrozenGrotto2
+Path: map/map/icecrypt-lev2.7z
+TileSize: 128
+-------------------
+ID: 3825
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 3846
+Name: Unknown
+Path: map/map/7godmind.7z
+TileSize: 128
+-------------------
+ID: 3849
+Name: Unknown
+Path: map/map/epicmission-nrz01.7z
+TileSize: 128
+-------------------
+ID: 3850
+Name: Unknown
+Path: map/map/epicmission-nrz02.7z
+TileSize: 128
+-------------------
+ID: 3851
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 3898
+Name: Unknown
+Path: map/map/newborder02_new.7z
+TileSize: 128
+-------------------
+ID: 3899
+Name: Unknown
+Path: map/map/border02.7z
+TileSize: 256
+-------------------
+ID: 3852
+Name: Unknown
+Path: map/map/poker.7z
+TileSize: 128
+-------------------
+ID: 3935
+Name: Unknown
+Path: map/map/newborder01_new.7z
+TileSize: 128
+-------------------
+ID: 3933
+Name: Unknown
+Path: map/map/epicm-taoist.7z
+TileSize: 256
+-------------------
+ID: 3937
+Name: Unknown
+Path: map/map/skygarden.7z
+TileSize: 256
+-------------------
+ID: 1738
+Name: Unknown
+Path: map/map/fairylandPK-09.7z
+TileSize: 256
+-------------------
+ID: 3942
+Name: Underworld
+Path: map/map/drop-entrance.7z
+TileSize: 256
+-------------------
+ID: 3943
+Name: Unknown
+Path: map/map/drop01.7z
+TileSize: 128
+-------------------
+ID: 3944
+Name: Unknown
+Path: map/map/drop02.7z
+TileSize: 128
+-------------------
+ID: 3945
+Name: Unknown
+Path: map/map/drop03.7z
+TileSize: 128
+-------------------
+ID: 3957
+Name: HellCloister
+Path: map/map/fight01.7z
+TileSize: 128
+-------------------
+ID: 3959
+Name: HellTreasury
+Path: map/map/fight02.7z
+TileSize: 128
+-------------------
+ID: 3983
+Name: Unknown
+Path: map/map/epicm-monk.7z
+TileSize: 256
+-------------------
+ID: 3991
+Name: Unknown
+Path: map/map/texaswait.7z
+TileSize: 256
+-------------------
+ID: 3998
+Name: FieryDragon
+Path: map/map/refine_new.7z
+TileSize: 128
+-------------------
+ID: 4000
+Name: Unknown
+Path: map/map/magictower01_new.7z
+TileSize: 128
+-------------------
+ID: 4003
+Name: Unknown
+Path: map/map/magictower02_new.7z
+TileSize: 128
+-------------------
+ID: 4006
+Name: Unknown
+Path: map/map/magictower03_new.7z
+TileSize: 128
+-------------------
+ID: 4008
+Name: Unknown
+Path: map/map/magictower04_new.7z
+TileSize: 128
+-------------------
+ID: 4009
+Name: Unknown
+Path: map/map/magictower-rest_new.7z
+TileSize: 128
+-------------------
+ID: 4020
+Name: Unknown
+Path: map/map/n-townfound.7z
+TileSize: 256
+-------------------
+ID: 4027
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4028
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4029
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4030
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4032
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4033
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4034
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4038
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4039
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 4040
+Name: Unknown
+Path: map/map/poker03_new.7z
+TileSize: 128
+-------------------
+ID: 10020
+Name: Unknown
+Path: map/map/olympic01.7z
+TileSize: 256
+-------------------
+ID: 10009
+Name: Unknown
+Path: map/map/sswq-zs03.7z
+TileSize: 128
+-------------------
+ID: 10010
+Name: Unknown
+Path: map/map/sswq-zs01b_new.7z
+TileSize: 128
+-------------------
+ID: 10011
+Name: Unknown
+Path: map/map/sswq-zs02.7z
+TileSize: 128
+-------------------
+ID: 10012
+Name: Unknown
+Path: map/map/sswq-zs01a_new.7z
+TileSize: 128
+-------------------
+ID: 3992
+Name: MoonKissPavilion
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 3990
+Name: Unknown
+Path: map/map/family06-01_new.7z
+TileSize: 128
+-------------------
+ID: 3995
+Name: Unknown
+Path: map/map/family06-02_new.7z
+TileSize: 128
+-------------------
+ID: 10088
+Name: Unknown
+Path: map/map/tsm_fb1_new.7z
+TileSize: 128
+-------------------
+ID: 10089
+Name: Unknown
+Path: map/map/tsm_ggdt.7z
+TileSize: 256
+-------------------
+ID: 10090
+Name: Unknown
+Path: map/map/tsm-fb2.7z
+TileSize: 256
+-------------------
+ID: 10137
+Name: DragonIsland
+Path: map/map/150newmaze_new.7z
+TileSize: 128
+-------------------
+ID: 10004
+Name: Unknown
+Path: map/map/babel.7z
+TileSize: 128
+-------------------
+ID: 10133
+Name: Unknown
+Path: map/map/climate_new.7z
+TileSize: 128
+-------------------
+ID: 10166
+Name: Unknown
+Path: map/map/7godmind.7z
+TileSize: 128
+-------------------
+ID: 10230
+Name: Unknown
+Path: map/map/poker.7z
+TileSize: 128
+-------------------
+ID: 10250
+Name: Deityland
+Path: map/map/island-snail01.7z
+TileSize: 256
+-------------------
+ID: 10252
+Name: Unknown
+Path: map/map/poker_new.7z
+TileSize: 128
+-------------------
+ID: 10266
+Name: Unknown
+Path: map/map/pirate02_new.7z
+TileSize: 128
+-------------------
+ID: 10267
+Name: Unknown
+Path: map/map/pirate03_new.7z
+TileSize: 128
+-------------------
+ID: 10268
+Name: Unknown
+Path: map/map/pirate04_new.7z
+TileSize: 128
+-------------------
+ID: 10269
+Name: Unknown
+Path: map/map/pirate05_new.7z
+TileSize: 128
+-------------------
+ID: 10270
+Name: Unknown
+Path: map/map/pirate06_new.7z
+TileSize: 128
+-------------------
+ID: 10271
+Name: Unknown
+Path: map/map/beach.7z
+TileSize: 128
+-------------------
+ID: 10272
+Name: Unknown
+Path: map/map/forum02_new.7z
+TileSize: 128
+-------------------
+ID: 10275
+Name: Unknown
+Path: map/map/maze01_new.7z
+TileSize: 128
+-------------------
+ID: 10276
+Name: Unknown
+Path: map/map/maze02_new.7z
+TileSize: 128
+-------------------
+ID: 10277
+Name: Unknown
+Path: map/map/maze03_new.7z
+TileSize: 128
+-------------------
+ID: 10278
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10281
+Name: Unknown
+Path: map/map/luckytree01_new.7z
+TileSize: 128
+-------------------
+ID: 10282
+Name: Unknown
+Path: map/map/luckytree02_new.7z
+TileSize: 128
+-------------------
+ID: 10283
+Name: Unknown
+Path: map/map/luckytree03_new.7z
+TileSize: 128
+-------------------
+ID: 10285
+Name: Unknown
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 10286
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10287
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10288
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10289
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10290
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10291
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10292
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10293
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10294
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10295
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10296
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10297
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10298
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10299
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10300
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10301
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 10305
+Name: Unknown
+Path: map/map/maze05_new.7z
+TileSize: 128
+-------------------
+ID: 10332
+Name: Unknown
+Path: map/map/2009-7x.7z
+TileSize: 256
+-------------------
+ID: 10340
+Name: Unknown
+Path: map/map/newgambler_new.7z
+TileSize: 128
+-------------------
+ID: 10348
+Name: BloodMine
+Path: map/map/facmine_new.7z
+TileSize: 128
+-------------------
+ID: 10364
+Name: WindPlain
+Path: map/map/n-newplain.7z
+TileSize: 256
+-------------------
+ID: 10357
+Name: Unknown
+Path: map/map/2011mid-autumn.7z
+TileSize: 128
+-------------------
+ID: 10358
+Name: Unknown
+Path: map/map/2011mid-autumn.7z
+TileSize: 128
+-------------------
+ID: 10359
+Name: Unknown
+Path: map/map/2011mid-autumn.7z
+TileSize: 128
+-------------------
+ID: 10360
+Name: Unknown
+Path: map/map/2011mid-autumn.7z
+TileSize: 128
+-------------------
+ID: 10397
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10398
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10399
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10400
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10401
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10402
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10403
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10404
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10405
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10406
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10407
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10408
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10409
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10410
+Name: Unknown
+Path: map/map/forum02_new.7z
+TileSize: 128
+-------------------
+ID: 10412
+Name: Unknown
+Path: map/map/Dgate.7z
+TileSize: 128
+-------------------
+ID: 10413
+Name: Unknown
+Path: map/map/star10.7z
+TileSize: 256
+-------------------
+ID: 10428
+Name: Unknown
+Path: map/map/spirit01_new.7z
+TileSize: 128
+-------------------
+ID: 10437
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10438
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10439
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10440
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10441
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10442
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10443
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10444
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 10445
+Name: Unknown
+Path: map/map/warrior_new.7z
+TileSize: 128
+-------------------
+ID: 10478
+Name: NightmareHall
+Path: map/map/bossnest01_new.7z
+TileSize: 128
+-------------------
+ID: 10479
+Name: NightmareHall
+Path: map/map/bossnest02_new.7z
+TileSize: 128
+-------------------
+ID: 10480
+Name: NightmareHall
+Path: map/map/bossnest03_new.7z
+TileSize: 128
+-------------------
+ID: 10481
+Name: NightmareHall
+Path: map/map/bossnest04_new.7z
+TileSize: 128
+-------------------
+ID: 10484
+Name: Unknown
+Path: map/map/lineup_new.7z
+TileSize: 128
+-------------------
+ID: 10503
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 10504
+Name: Unknown
+Path: map/map/top03.7z
+TileSize: 256
+-------------------
+ID: 10602
+Name: Unknown
+Path: map/map/arena-none.7z
+TileSize: 256
+-------------------
+ID: 10603
+Name: Unknown
+Path: map/map/top01.7z
+TileSize: 256
+-------------------
+ID: 10604
+Name: Unknown
+Path: map/map/top07.7z
+TileSize: 256
+-------------------
+ID: 10611
+Name: Unknown
+Path: map/map/top01.7z
+TileSize: 256
+-------------------
+ID: 10612
+Name: Unknown
+Path: map/map/top02.7z
+TileSize: 256
+-------------------
+ID: 10613
+Name: Unknown
+Path: map/map/top03.7z
+TileSize: 256
+-------------------
+ID: 10614
+Name: Unknown
+Path: map/map/top04.7z
+TileSize: 256
+-------------------
+ID: 10615
+Name: Unknown
+Path: map/map/top05.7z
+TileSize: 256
+-------------------
+ID: 10616
+Name: Unknown
+Path: map/map/top05.7z
+TileSize: 256
+-------------------
+ID: 10617
+Name: Unknown
+Path: map/map/top07.7z
+TileSize: 256
+-------------------
+ID: 10618
+Name: Unknown
+Path: map/map/top07.7z
+TileSize: 256
+-------------------
+ID: 10619
+Name: Unknown
+Path: map/map/top07.7z
+TileSize: 256
+-------------------
+ID: 10620
+Name: Unknown
+Path: map/map/top10.7z
+TileSize: 256
+-------------------
+ID: 10622
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10623
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10624
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10625
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10626
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10627
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10628
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10629
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10630
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10631
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10632
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10633
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10634
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10635
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10636
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10637
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10638
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10639
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 10673
+Name: Unknown
+Path: map/map/exist01_new.7z
+TileSize: 128
+-------------------
+ID: 10723
+Name: Unknown
+Path: map/map/faction01_new.7z
+TileSize: 128
+-------------------
+ID: 10741
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 10759
+Name: Unknown
+Path: map/map/newcopy01_new.7z
+TileSize: 128
+-------------------
+ID: 10760
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 10761
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 10762
+Name: Unknown
+Path: map/map/newcopy04_new.7z
+TileSize: 128
+-------------------
+ID: 10764
+Name: ToadMountain
+Path: map/map/ninja01_new.7z
+TileSize: 128
+-------------------
+ID: 10763
+Name: Unknown
+Path: map/map/qiling.7z
+TileSize: 256
+-------------------
+ID: 10766
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 10767
+Name: Unknown
+Path: map/map/horserate-d.7z
+TileSize: 256
+-------------------
+ID: 10770
+Name: Unknown
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 10796
+Name: Unknown
+Path: map/map/epicm-monk.7z
+TileSize: 256
+-------------------
+ID: 10863
+Name: Unknown
+Path: map/map/2019xmas_new.7z
+TileSize: 128
+-------------------
+ID: 10925
+Name: Unknown
+Path: map/map/arena-none.7z
+TileSize: 256
+-------------------
+ID: 10965
+Name: Unknown
+Path: map/map/bpvs_new.7z
+TileSize: 128
+-------------------
+ID: 11017
+Name: Unknown
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 11039
+Name: Unknown
+Path: map/map/zsjx04_new.7z
+TileSize: 128
+-------------------
+ID: 11040
+Name: Unknown
+Path: map/map/zsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 11041
+Name: Unknown
+Path: map/map/zsjx02_new.7z
+TileSize: 128
+-------------------
+ID: 11042
+Name: Unknown
+Path: map/map/zsjx01_new.7z
+TileSize: 128
+-------------------
+ID: 11043
+Name: Unknown
+Path: map/map/desert.7z
+TileSize: 256
+-------------------
+ID: 11087
+Name: Unknown
+Path: map/map/2019midaut01_new.7z
+TileSize: 128
+-------------------
+ID: 11257
+Name: Unknown
+Path: map/map/gsjx04_new.7z
+TileSize: 128
+-------------------
+ID: 11151
+Name: Unknown
+Path: map/map/gsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 11222
+Name: Unknown
+Path: map/map/gsjx01_new.7z
+TileSize: 128
+-------------------
+ID: 11223
+Name: Unknown
+Path: map/map/gsjx02_new.7z
+TileSize: 128
+-------------------
+ID: 11328
+Name: Unknown
+Path: map/map/bp-contest02.7z
+TileSize: 256
+-------------------
+ID: 11392
+Name: Divine Contest
+Path: map/map/bp-flandlords-y_new.7z
+TileSize: 128
+-------------------
+ID: 11414
+Name: Unknown
+Path: map/map/2021qixi_new.7z
+TileSize: 128
+-------------------
+ID: 11480
+Name: Unknown
+Path: map/map/street01.7z
+TileSize: 256
+-------------------
+ID: 11535
+Name: Unknown
+Path: map/map/sary02_new.7z
+TileSize: 128
+-------------------
+ID: 11536
+Name: Unknown
+Path: map/map/bsbz_new.7z
+TileSize: 128
+-------------------
+ID: 11543
+Name: Unknown
+Path: map/map/clan_new.7z
+TileSize: 128
+-------------------
+ID: 11568
+Name: Unknown
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 11570
+Name: Unknown
+Path: map/map/daily.7z
+TileSize: 256
+-------------------
+ID: 11579
+Name: Unknown
+Path: map/map/gsjx02_new.7z
+TileSize: 128
+-------------------
+ID: 11580
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 11583
+Name: Unknown
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 11584
+Name: Unknown
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 11574
+Name: Unknown
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 11586
+Name: Unknown
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 11587
+Name: Unknown
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 11591
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11592
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11593
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11594
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11595
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11596
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11597
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11598
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11599
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11600
+Name: Unknown
+Path: map/map/poker01_new.7z
+TileSize: 128
+-------------------
+ID: 11725
+Name: Unknown
+Path: map/map/2014Halloween01.7z
+TileSize: 128
+-------------------
+ID: 11780
+Name: Unknown
+Path: map/map/pirate_new.7z
+TileSize: 128
+-------------------
+ID: 11815
+Name: Unknown
+Path: map/map/pirate02_new.7z
+TileSize: 128
+-------------------
+ID: 11816
+Name: Unknown
+Path: map/map/pirate_new.7z
+TileSize: 128
+-------------------
+ID: 11817
+Name: Unknown
+Path: map/map/tiger.7z
+TileSize: 256
+-------------------
+ID: 11818
+Name: Unknown
+Path: map/map/pirate_new.7z
+TileSize: 128
+-------------------
+ID: 11819
+Name: Unknown
+Path: map/map/pirate_new.7z
+TileSize: 128
+-------------------
+ID: 11823
+Name: Unknown
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 11897
+Name: Mid-AutumnStory3
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 1098
+Name: Unknown
+Path: map/map/house01.7z
+TileSize: 256
+-------------------
+ID: 1099
+Name: Unknown
+Path: map/map/house03.7z
+TileSize: 256
+-------------------
+ID: 11585
+Name: SnowmanLand
+Path: map/map/2021tsf_new.7z
+TileSize: 128
+-------------------
+ID: 11977
+Name: MountKongsang
+Path: map/map/sdragon01_new.7z
+TileSize: 128
+-------------------
+ID: 11909
+Name: Unknown
+Path: map/map/sdragon_new.7z
+TileSize: 128
+-------------------
+ID: 11912
+Name: Unknown
+Path: map/map/sdragon01_new.7z
+TileSize: 128
+-------------------
+ID: 11984
+Name: Unknown
+Path: map/map/fairylandPK-07.7z
+TileSize: 256
+-------------------
+ID: 11986
+Name: Unknown
+Path: map/map/spirit01_new.7z
+TileSize: 128
+-------------------
+ID: 11918
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12027
+Name: Unknown
+Path: map/map/2020love02_new.7z
+TileSize: 256
+-------------------
+ID: 12019
+Name: VaultPalace
+Path: map/map/2023tsf_new.7z
+TileSize: 128
+-------------------
+ID: 12021
+Name: Unknown
+Path: map/map/woods.7z
+TileSize: 256
+-------------------
+ID: 12022
+Name: Unknown
+Path: map/map/mfpk.7z
+TileSize: 256
+-------------------
+ID: 12023
+Name: Unknown
+Path: map/map/warrior_new.7z
+TileSize: 128
+-------------------
+ID: 12024
+Name: Unknown
+Path: map/map/tiger01.7z
+TileSize: 256
+-------------------
+ID: 10601
+Name: Unknown
+Path: map/map/2020tsf_new.7z
+TileSize: 128
+-------------------
+ID: 11996
+Name: ZhenwuTemple
+Path: map/map/taoist_new.7z
+TileSize: 128
+-------------------
+ID: 12000
+Name: DeepOfSinkingShip
+Path: map/map/pirate06_new.7z
+TileSize: 128
+-------------------
+ID: 12001
+Name: SinkingShip
+Path: map/map/seabed01.7z
+TileSize: 128
+-------------------
+ID: 12053
+Name: Unknown
+Path: map/map/ninja01_new.7z
+TileSize: 128
+-------------------
+ID: 11301
+Name: Unknown
+Path: map/map/cho-01_new.7z
+TileSize: 128
+-------------------
+ID: 10702
+Name: Unknown
+Path: map/map/2019thx_new.7z
+TileSize: 128
+-------------------
+ID: 10835
+Name: Unknown
+Path: map/map/2020love02_new.7z
+TileSize: 256
+-------------------
+ID: 11331
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12072
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 12073
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 12074
+Name: Unknown
+Path: map/map/2020love02_new.7z
+TileSize: 256
+-------------------
+ID: 12075
+Name: Unknown
+Path: map/map/2020love02_new.7z
+TileSize: 256
+-------------------
+ID: 11140
+Name: Unknown
+Path: map/map/dragon01_new.7z
+TileSize: 128
+-------------------
+ID: 10587
+Name: Unknown
+Path: map/map/2019qixi_new.7z
+TileSize: 128
+-------------------
+ID: 11128
+Name: Unknown
+Path: map/map/beach.7z
+TileSize: 128
+-------------------
+ID: 10461
+Name: Unknown
+Path: map/map/newbie.7z
+TileSize: 256
+-------------------
+ID: 11554
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 11724
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 256
+-------------------
+ID: 11127
+Name: WitchLand
+Path: map/map/2020love01_new.7z
+TileSize: 128
+-------------------
+ID: 11923
+Name: PumpkinRoom
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 11924
+Name: TorchRoom
+Path: map/map/Nhouse03.7z
+TileSize: 128
+-------------------
+ID: 11938
+Name: Unknown
+Path: map/map/daymap-siege.7z
+TileSize: 256
+-------------------
+ID: 11940
+Name: Unknown
+Path: map/map/cho_new.7z
+TileSize: 128
+-------------------
+ID: 11942
+Name: Unknown
+Path: map/map/zsjx01_new.7z
+TileSize: 128
+-------------------
+ID: 12110
+Name: Unknown
+Path: map/map/gsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 12115
+Name: Unknown
+Path: map/map/luckytree03_new.7z
+TileSize: 128
+-------------------
+ID: 12097
+Name: Unknown
+Path: map/map/zsjx02_new.7z
+TileSize: 128
+-------------------
+ID: 12098
+Name: Unknown
+Path: map/map/gsjx02_new.7z
+TileSize: 128
+-------------------
+ID: 12099
+Name: Unknown
+Path: map/map/gsjx01_new.7z
+TileSize: 128
+-------------------
+ID: 12101
+Name: AnniversaryForest
+Path: map/map/2019qixi_new.7z
+TileSize: 128
+-------------------
+ID: 12102
+Name: ViperSwamp
+Path: map/map/CelestialChest.7z
+TileSize: 256
+-------------------
+ID: 10224
+Name: Unknown
+Path: map/map/forum02_new.7z
+TileSize: 128
+-------------------
+ID: 11203
+Name: Unknown
+Path: map/map/sary02_new.7z
+TileSize: 128
+-------------------
+ID: 12116
+Name: Unknown
+Path: map/map/2014vipholiday.7z
+TileSize: 256
+-------------------
+ID: 12139
+Name: Unknown
+Path: map/map/2015valentine.7z
+TileSize: 128
+-------------------
+ID: 12152
+Name: Unknown
+Path: map/map/explore_new.7z
+TileSize: 128
+-------------------
+ID: 12153
+Name: Unknown
+Path: map/map/faction01_new.7z
+TileSize: 128
+-------------------
+ID: 12144
+Name: Unknown
+Path: map/map/newwoods.7z
+TileSize: 256
+-------------------
+ID: 12145
+Name: Unknown
+Path: map/map/border02.7z
+TileSize: 256
+-------------------
+ID: 12146
+Name: Unknown
+Path: map/map/7godmind.7z
+TileSize: 128
+-------------------
+ID: 11571
+Name: Unknown
+Path: map/map/daily.7z
+TileSize: 256
+-------------------
+ID: 11516
+Name: DreadHill
+Path: map/map/bossnest_new.7z
+TileSize: 128
+-------------------
+ID: 12160
+Name: Unknown
+Path: map/map/pirate06_new.7z
+TileSize: 128
+-------------------
+ID: 12161
+Name: Unknown
+Path: map/map/spirit01_new.7z
+TileSize: 128
+-------------------
+ID: 12170
+Name: MoonPalace
+Path: map/map/7godmind.7z
+TileSize: 128
+-------------------
+ID: 12176
+Name: Unknown
+Path: map/map/2019midaut_new.7z
+TileSize: 128
+-------------------
+ID: 11313
+Name: Unknown
+Path: map/map/2021music_new.7z
+TileSize: 128
+-------------------
+ID: 11885
+Name: Unknown
+Path: map/map/petevent.7z
+TileSize: 256
+-------------------
+ID: 12183
+Name: Unknown
+Path: map/map/n-townfound.7z
+TileSize: 256
+-------------------
+ID: 12184
+Name: Unknown
+Path: map/map/qingqiu_new.7z
+TileSize: 128
+-------------------
+ID: 12189
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 12206
+Name: Unknown
+Path: map/map/sdragon01_new.7z
+TileSize: 128
+-------------------
+ID: 12226
+Name: Unknown
+Path: map/map/n-newplain.7z
+TileSize: 256
+-------------------
+ID: 12227
+Name: MoonPalace
+Path: map/map/2019midaut01_new.7z
+TileSize: 128
+-------------------
+ID: 12270
+Name: Unknown
+Path: map/map/2021qixi_new.7z
+TileSize: 128
+-------------------
+ID: 12273
+Name: PeripheralZone
+Path: map/map/bossnest_new.7z
+TileSize: 128
+-------------------
+ID: 12275
+Name: Unknown
+Path: map/map/2019xmas_new.7z
+TileSize: 128
+-------------------
+ID: 12276
+Name: Unknown
+Path: map/map/2020love02_new.7z
+TileSize: 256
+-------------------
+ID: 12277
+Name: Unknown
+Path: map/map/beach.7z
+TileSize: 128
+-------------------
+ID: 12278
+Name: Unknown
+Path: map/map/drop-entrance.7z
+TileSize: 256
+-------------------
+ID: 12279
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 12280
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12281
+Name: Unknown
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 12282
+Name: Unknown
+Path: map/map/newcopy01_new.7z
+TileSize: 128
+-------------------
+ID: 12283
+Name: Unknown
+Path: map/map/pirate05_new.7z
+TileSize: 128
+-------------------
+ID: 12284
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 12285
+Name: Unknown
+Path: map/map/fairylandPK-09.7z
+TileSize: 256
+-------------------
+ID: 12286
+Name: Unknown
+Path: map/map/tiger.7z
+TileSize: 256
+-------------------
+ID: 12288
+Name: Unknown
+Path: map/map/Dsquare.7z
+TileSize: 128
+-------------------
+ID: 12289
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 12290
+Name: Unknown
+Path: map/map/2014Halloween01.7z
+TileSize: 128
+-------------------
+ID: 12291
+Name: Unknown
+Path: map/map/horse.7z
+TileSize: 256
+-------------------
+ID: 12292
+Name: Unknown
+Path: map/map/forum02_new.7z
+TileSize: 128
+-------------------
+ID: 12200
+Name: KunlunBattlefield1F
+Path: map/map/fairylandPK-02.7z
+TileSize: 256
+-------------------
+ID: 12201
+Name: KunlunBattlefield2F
+Path: map/map/fairylandPK-10.7z
+TileSize: 256
+-------------------
+ID: 12202
+Name: KunlunBattlefield3F
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12203
+Name: KunlunBattlefield4F
+Path: map/map/fairylandPK-05.7z
+TileSize: 256
+-------------------
+ID: 12299
+Name: KunlunBattlefield5F
+Path: map/map/fairylandPK-06.7z
+TileSize: 256
+-------------------
+ID: 12300
+Name: KunlunBattlefield6F
+Path: map/map/fairylandPK-07.7z
+TileSize: 256
+-------------------
+ID: 12301
+Name: KunlunBattlefield7F
+Path: map/map/fairylandPK-09.7z
+TileSize: 256
+-------------------
+ID: 12196
+Name: MeteorArena1F
+Path: map/map/prison.7z
+TileSize: 256
+-------------------
+ID: 12197
+Name: MeteorArena2F
+Path: map/map/prison.7z
+TileSize: 256
+-------------------
+ID: 12198
+Name: MeteorArena3F
+Path: map/map/prison.7z
+TileSize: 256
+-------------------
+ID: 12294
+Name: Unknown
+Path: map/map/tiger01.7z
+TileSize: 256
+-------------------
+ID: 12224
+Name: Unknown
+Path: map/map/Gulf.7z
+TileSize: 128
+-------------------
+ID: 12293
+Name: Unknown
+Path: map/map/d_antre01.7z
+TileSize: 256
+-------------------
+ID: 12287
+Name: Unknown
+Path: map/map/gsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 12415
+Name: SpringFestival
+Path: map/map/2024tsf_new.7z
+TileSize: 256
+-------------------
+ID: 12416
+Name: Unknown
+Path: map/map/2024tsf_new.7z
+TileSize: 256
+-------------------
+ID: 12430
+Name: Theater
+Path: map/map/2024love01_new.7z
+TileSize: 128
+-------------------
+ID: 12435
+Name: SwanLake
+Path: map/map/2024love02_new.7z
+TileSize: 128
+-------------------
+ID: 12325
+Name: Unknown
+Path: map/map/campfief_new.7z
+TileSize: 128
+-------------------
+ID: 12326
+Name: Unknown
+Path: map/map/campclash_new.7z
+TileSize: 128
+-------------------
+ID: 12446
+Name: MemoryGarden
+Path: map/map/dragon01_new.7z
+TileSize: 128
+-------------------
+ID: 12453
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12473
+Name: Unknown
+Path: map/map/2019halloween_new.7z
+TileSize: 128
+-------------------
+ID: 12469
+Name: Unknown
+Path: map/map/clan_new.7z
+TileSize: 128
+-------------------
+ID: 12470
+Name: Unknown
+Path: map/map/mfpk.7z
+TileSize: 256
+-------------------
+ID: 12471
+Name: Unknown
+Path: map/map/sswq-zs02.7z
+TileSize: 128
+-------------------
+ID: 12472
+Name: Unknown
+Path: map/map/sswq-zs01b_new.7z
+TileSize: 128
+-------------------
+ID: 12474
+Name: Unknown
+Path: map/map/maze04_new.7z
+TileSize: 128
+-------------------
+ID: 12479
+Name: Outskirts
+Path: map/map/clanwar_new.7z
+TileSize: 128
+-------------------
+ID: 12486
+Name: Unknown
+Path: map/map/clan_new.7z
+TileSize: 128
+-------------------
+ID: 12487
+Name: Unknown
+Path: map/map/mfpk.7z
+TileSize: 256
+-------------------
+ID: 12488
+Name: Unknown
+Path: map/map/sswq-zs02.7z
+TileSize: 128
+-------------------
+ID: 12489
+Name: Unknown
+Path: map/map/sswq-zs01b_new.7z
+TileSize: 128
+-------------------
+ID: 12481
+Name: Unknown
+Path: map/map/clan_new.7z
+TileSize: 128
+-------------------
+ID: 12482
+Name: Unknown
+Path: map/map/mfpk.7z
+TileSize: 256
+-------------------
+ID: 12483
+Name: Unknown
+Path: map/map/sswq-zs02.7z
+TileSize: 128
+-------------------
+ID: 12484
+Name: Unknown
+Path: map/map/sswq-zs01b_new.7z
+TileSize: 128
+-------------------
+ID: 12458
+Name: Unknown
+Path: map/map/ninja01_new.7z
+TileSize: 128
+-------------------
+ID: 12468
+Name: Unknown
+Path: map/map/top03.7z
+TileSize: 256
+-------------------
+ID: 12444
+Name: EonspiritRealm
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12447
+Name: EonspiritRealm
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12448
+Name: EonspiritRealm
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12449
+Name: EonspiritRealm
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12456
+Name: OldBattlefield
+Path: map/map/zsjx01_new.7z
+TileSize: 256
+-------------------
+ID: 12480
+Name: Unknown
+Path: map/map/magictower04_new.7z
+TileSize: 128
+-------------------
+ID: 12519
+Name: TitanRealm(CS)
+Path: map/map/2024tsf_new.7z
+TileSize: 256
+-------------------
+ID: 12496
+Name: Unknown
+Path: map/map/sdragon_new.7z
+TileSize: 128
+-------------------
+ID: 12497
+Name: Unknown
+Path: map/map/2024tsf_new.7z
+TileSize: 128
+-------------------
+ID: 12511
+Name: Unknown
+Path: map/map/epicmission-nrz02.7z
+TileSize: 128
+-------------------
+ID: 12512
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 12520
+Name: GoosePark
+Path: map/map/2024love02_new.7z
+TileSize: 128
+-------------------
+ID: 12521
+Name: EggSnatch
+Path: map/map/2024love02_new.7z
+TileSize: 128
+-------------------
+ID: 12522
+Name: DinowolfIsle
+Path: map/map/sdragon_new.7z
+TileSize: 128
+-------------------
+ID: 12554
+Name: CSConcert
+Path: map/map/2021music_new.7z
+TileSize: 128
+-------------------
+ID: 12544
+Name: Unknown
+Path: map/map/house03.7z
+TileSize: 256
+-------------------
+ID: 12545
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12546
+Name: Unknown
+Path: map/map/2019xmas_new.7z
+TileSize: 128
+-------------------
+ID: 12547
+Name: Unknown
+Path: map/map/family.7z
+TileSize: 128
+-------------------
+ID: 12548
+Name: Unknown
+Path: map/map/2024love01_new.7z
+TileSize: 128
+-------------------
+ID: 12549
+Name: Unknown
+Path: map/map/2024stage_new.7z
+TileSize: 128
+-------------------
+ID: 12550
+Name: Unknown
+Path: map/map/sswq-zs03.7z
+TileSize: 128
+-------------------
+ID: 12552
+Name: Unknown
+Path: map/map/2024stage_new.7z
+TileSize: 128
+-------------------
+ID: 12584
+Name: Unknown
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12572
+Name: Unknown
+Path: map/map/dragon01_new.7z
+TileSize: 128
+-------------------
+ID: 12573
+Name: Unknown
+Path: map/map/newcopy01_new.7z
+TileSize: 128
+-------------------
+ID: 12574
+Name: Unknown
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 12575
+Name: Unknown
+Path: map/map/flower.7z
+TileSize: 256
+-------------------
+ID: 12576
+Name: Unknown
+Path: map/map/ninja01_new.7z
+TileSize: 128
+-------------------
+ID: 12577
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 12578
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 12581
+Name: Unknown
+Path: map/map/qingqiu_new.7z
+TileSize: 128
+-------------------
+ID: 12582
+Name: Unknown
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12593
+Name: HorseRacing
+Path: map/map/horserate-s.7z
+TileSize: 256
+-------------------
+ID: 12594
+Name: SportsPark
+Path: map/map/newborder01_new.7z
+TileSize: 128
+-------------------
+ID: 12588
+Name: SportsPark
+Path: map/map/campfief_new.7z
+TileSize: 128
+-------------------
+ID: 12589
+Name: ShootingPark
+Path: map/map/mine-one.7z
+TileSize: 256
+-------------------
+ID: 12590
+Name: SwimmingPark
+Path: map/map/pirate05_new.7z
+TileSize: 128
+-------------------
+ID: 12591
+Name: PreparationMap
+Path: map/map/2020love02_new.7z
+TileSize: 256
+-------------------
+ID: 12592
+Name: Unknown
+Path: map/map/climb_new.7z
+TileSize: 128
+-------------------
+ID: 12586
+Name: BlissVillage
+Path: map/map/sdragon01_new.7z
+TileSize: 128
+-------------------
+ID: 12587
+Name: SecretGrotto
+Path: map/map/epicmission-nrz01.7z
+TileSize: 128
+-------------------
+ID: 12599
+Name: RainbowBay
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12600
+Name: RingMountain
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12601
+Name: StormyOcean
+Path: map/map/pirate05_new.7z
+TileSize: 128
+-------------------
+ID: 12602
+Name: GalaxyPalace
+Path: map/map/2024love01_new.7z
+TileSize: 128
+-------------------
+ID: 12603
+Name: PeakOfEternity
+Path: map/map/2019midaut01_new.7z
+TileSize: 128
+-------------------
+ID: 12604
+Name: PeakOfEternity
+Path: map/map/epicmission-nrz01.7z
+TileSize: 128
+-------------------
+ID: 12605
+Name: SummerLake
+Path: map/map/2024love02_new.7z
+TileSize: 128
+-------------------
+ID: 12610
+Name: Unknown
+Path: map/map/dragon01_new.7z
+TileSize: 128
+-------------------
+ID: 12597
+Name: Unknown
+Path: map/map/2024tsf_new.7z
+TileSize: 256
+-------------------
+ID: 12619
+Name: WitchHouse
+Path: map/map/gsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 12617
+Name: SilentHill
+Path: map/map/2024halloween_new.7z
+TileSize: 128
+-------------------
+ID: 12630
+Name: Unknown
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 12631
+Name: Unknown
+Path: map/map/magictower03_new.7z
+TileSize: 128
+-------------------
+ID: 12632
+Name: Unknown
+Path: map/map/zsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 12655
+Name: Unknown
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 10138
+Name: Unknown
+Path: map/map/bossnest_new.7z
+TileSize: 128
+-------------------
+ID: 12616
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12664
+Name: LastCamp
+Path: map/map/lastcamp_new.7z
+TileSize: 128
+-------------------
+ID: 12633
+Name: Unknown
+Path: map/map/2024thx_new.7z
+TileSize: 128
+-------------------
+ID: 12660
+Name: TurkeyRefuge
+Path: map/map/clanwar_new.7z
+TileSize: 128
+-------------------
+ID: 12665
+Name: MeadowDrills
+Path: map/map/sswq-zs01b_new.7z
+TileSize: 128
+-------------------
+ID: 12666
+Name: BeachDrills
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12667
+Name: SnowfieldDrills
+Path: map/map/2019xmas_new.7z
+TileSize: 128
+-------------------
+ID: 12668
+Name: SeaDrills
+Path: map/map/pirate06_new.7z
+TileSize: 128
+-------------------
+ID: 12669
+Name: StarrySkyDrills
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 12670
+Name: NightDrills
+Path: map/map/epicmission.7z
+TileSize: 128
+-------------------
+ID: 12671
+Name: VolcanoDrills
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 12672
+Name: StrengthDrills
+Path: map/map/forum02_new.7z
+TileSize: 128
+-------------------
+ID: 12673
+Name: AgilityDrills
+Path: map/map/newcopy04_new.7z
+TileSize: 128
+-------------------
+ID: 12674
+Name: MagicDrills
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12697
+Name: Unknown
+Path: map/map/2019thx_new.7z
+TileSize: 128
+-------------------
+ID: 12698
+Name: Unknown
+Path: map/map/poker.7z
+TileSize: 128
+-------------------
+ID: 12699
+Name: Unknown
+Path: map/map/poker02.7z
+TileSize: 128
+-------------------
+ID: 12700
+Name: Unknown
+Path: map/map/cho-01_new.7z
+TileSize: 128
+-------------------
+ID: 12701
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12702
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 12703
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12704
+Name: Unknown
+Path: map/map/newcopy01_new.7z
+TileSize: 128
+-------------------
+ID: 12696
+Name: Unknown
+Path: map/map/2024xmas_new.7z
+TileSize: 128
+-------------------
+ID: 12734
+Name: Unknown
+Path: map/map/2025tsf_new.7z
+TileSize: 128
+-------------------
+ID: 12751
+Name: Unknown
+Path: map/map/2024love02_new.7z
+TileSize: 128
+-------------------
+ID: 12752
+Name: Unknown
+Path: map/map/newcopy04_new.7z
+TileSize: 128
+-------------------
+ID: 12753
+Name: Unknown
+Path: map/map/magictower03_new.7z
+TileSize: 128
+-------------------
+ID: 12754
+Name: Unknown
+Path: map/map/lead01.7z
+TileSize: 256
+-------------------
+ID: 12755
+Name: Unknown
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 12756
+Name: Unknown
+Path: map/map/magictower01_new.7z
+TileSize: 128
+-------------------
+ID: 12757
+Name: Unknown
+Path: map/map/n-townfound.7z
+TileSize: 256
+-------------------
+ID: 12778
+Name: Unknown
+Path: map/map/2025love01_new.7z
+TileSize: 128
+-------------------
+ID: 12779
+Name: Unknown
+Path: map/map/2025love01_new.7z
+TileSize: 128
+-------------------
+ID: 12760
+Name: Unknown
+Path: map/map/2025love01_new.7z
+TileSize: 128
+-------------------
+ID: 11716
+Name: Unknown
+Path: map/map/2022love01_new.7z
+TileSize: 128
+-------------------
+ID: 12814
+Name: WilliamCastle
+Path: map/map/2025love01_new.7z
+TileSize: 128
+-------------------
+ID: 12819
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12780
+Name: Unknown
+Path: map/map/fairylandPK-06.7z
+TileSize: 256
+-------------------
+ID: 12781
+Name: Unknown
+Path: map/map/tiger.7z
+TileSize: 256
+-------------------
+ID: 12782
+Name: Unknown
+Path: map/map/Nhouse04.7z
+TileSize: 128
+-------------------
+ID: 12783
+Name: Unknown
+Path: map/map/Nhouse04.7z
+TileSize: 128
+-------------------
+ID: 12784
+Name: Unknown
+Path: map/map/Nhouse04.7z
+TileSize: 128
+-------------------
+ID: 12785
+Name: Unknown
+Path: map/map/newcopy04_new.7z
+TileSize: 128
+-------------------
+ID: 12786
+Name: Unknown
+Path: map/map/Nhouse03.7z
+TileSize: 128
+-------------------
+ID: 12787
+Name: Unknown
+Path: map/map/pk.7z
+TileSize: 256
+-------------------
+ID: 12788
+Name: Unknown
+Path: map/map/epicm-monk.7z
+TileSize: 256
+-------------------
+ID: 12789
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12790
+Name: Unknown
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12791
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12792
+Name: Unknown
+Path: map/map/qingqiu_new.7z
+TileSize: 128
+-------------------
+ID: 12793
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 12794
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 12795
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 12796
+Name: Unknown
+Path: map/map/stairs01_new.7z
+TileSize: 128
+-------------------
+ID: 12797
+Name: Unknown
+Path: map/map/fairylandPK-05.7z
+TileSize: 256
+-------------------
+ID: 12798
+Name: Unknown
+Path: map/map/house03.7z
+TileSize: 256
+-------------------
+ID: 12799
+Name: Unknown
+Path: map/map/zsjx01_new.7z
+TileSize: 128
+-------------------
+ID: 12800
+Name: Unknown
+Path: map/map/magictower01_new.7z
+TileSize: 128
+-------------------
+ID: 12801
+Name: Unknown
+Path: map/map/lineup-pass.7z
+TileSize: 256
+-------------------
+ID: 12802
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12803
+Name: Unknown
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 12809
+Name: Unknown
+Path: map/map/epicmission-nrz01.7z
+TileSize: 128
+-------------------
+ID: 12810
+Name: Unknown
+Path: map/map/epicmission-nrz02.7z
+TileSize: 128
+-------------------
+ID: 12811
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 12812
+Name: Unknown
+Path: map/map/zsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 12759
+Name: WorldInPainting
+Path: map/map/monk02_new.7z
+TileSize: 128
+-------------------
+ID: 12721
+Name: FishingVillage
+Path: map/map/monk03_new.7z
+TileSize: 128
+-------------------
+ID: 12722
+Name: TempleOfThunder
+Path: map/map/monk01_new.7z
+TileSize: 128
+-------------------
+ID: 12723
+Name: ValleyOfWilds
+Path: map/map/monk02_new.7z
+TileSize: 128
+-------------------
+ID: 12761
+Name: TempleOfThunder
+Path: map/map/monk04_new.7z
+TileSize: 128
+-------------------
+ID: 12832
+Name: Unknown
+Path: map/map/2024thx_new.7z
+TileSize: 128
+-------------------
+ID: 12833
+Name: PleasureVault
+Path: map/map/bossnest_new.7z
+TileSize: 128
+-------------------
+ID: 12821
+Name: Unknown
+Path: map/map/2024thx_new.7z
+TileSize: 128
+-------------------
+ID: 12822
+Name: Unknown
+Path: map/map/pirate_new.7z
+TileSize: 128
+-------------------
+ID: 12823
+Name: Unknown
+Path: map/map/cho-01_new.7z
+TileSize: 128
+-------------------
+ID: 12824
+Name: Unknown
+Path: map/map/zsjx04_new.7z
+TileSize: 128
+-------------------
+ID: 12825
+Name: Unknown
+Path: map/map/family.7z
+TileSize: 128
+-------------------
+ID: 12826
+Name: Unknown
+Path: map/map/magictower04_new.7z
+TileSize: 128
+-------------------
+ID: 12845
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 12846
+Name: Unknown
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 12847
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12848
+Name: Unknown
+Path: map/map/fight02.7z
+TileSize: 128
+-------------------
+ID: 12849
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 12850
+Name: Unknown
+Path: map/map/zsjx01_new.7z
+TileSize: 128
+-------------------
+ID: 12851
+Name: Unknown
+Path: map/map/tiger01.7z
+TileSize: 256
+-------------------
+ID: 12852
+Name: Unknown
+Path: map/map/luckytree03_new.7z
+TileSize: 128
+-------------------
+ID: 12853
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12854
+Name: Unknown
+Path: map/map/epicm-monk.7z
+TileSize: 256
+-------------------
+ID: 12855
+Name: Unknown
+Path: map/map/epicmission-nrz02.7z
+TileSize: 128
+-------------------
+ID: 12856
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 12857
+Name: Unknown
+Path: map/map/jtxn.7z
+TileSize: 256
+-------------------
+ID: 12858
+Name: Unknown
+Path: map/map/tiger01.7z
+TileSize: 256
+-------------------
+ID: 12859
+Name: Unknown
+Path: map/map/pirate05_new.7z
+TileSize: 128
+-------------------
+ID: 12860
+Name: Unknown
+Path: map/map/newcopy01_new.7z
+TileSize: 128
+-------------------
+ID: 12861
+Name: Unknown
+Path: map/map/magictower01_new.7z
+TileSize: 128
+-------------------
+ID: 12862
+Name: Unknown
+Path: map/map/fight02.7z
+TileSize: 128
+-------------------
+ID: 12863
+Name: Unknown
+Path: map/map/tiger01.7z
+TileSize: 256
+-------------------
+ID: 12864
+Name: Unknown
+Path: map/map/lineup-pass.7z
+TileSize: 256
+-------------------
+ID: 12865
+Name: Unknown
+Path: map/map/drop-entrance.7z
+TileSize: 256
+-------------------
+ID: 12866
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12867
+Name: Unknown
+Path: map/map/gsjx05_new.7z
+TileSize: 256
+-------------------
+ID: 12868
+Name: Unknown
+Path: map/map/ninja03_new.7z
+TileSize: 128
+-------------------
+ID: 12869
+Name: Unknown
+Path: map/map/luckytree03_new.7z
+TileSize: 128
+-------------------
+ID: 12870
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12871
+Name: Unknown
+Path: map/map/epicm-monk.7z
+TileSize: 256
+-------------------
+ID: 12872
+Name: Unknown
+Path: map/map/fairylandPK-02.7z
+TileSize: 256
+-------------------
+ID: 12873
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12874
+Name: Unknown
+Path: map/map/fairylandPK-07.7z
+TileSize: 256
+-------------------
+ID: 12875
+Name: Unknown
+Path: map/map/epicmission-nrz03.7z
+TileSize: 128
+-------------------
+ID: 12876
+Name: Unknown
+Path: map/map/lineup-pass.7z
+TileSize: 256
+-------------------
+ID: 12877
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12878
+Name: Unknown
+Path: map/map/fight02.7z
+TileSize: 128
+-------------------
+ID: 12879
+Name: Unknown
+Path: map/map/spirit02_new.7z
+TileSize: 128
+-------------------
+ID: 12836
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12837
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12838
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12839
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12840
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12841
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12842
+Name: Unknown
+Path: map/map/magictower03_new.7z
+TileSize: 128
+-------------------
+ID: 12843
+Name: Unknown
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12834
+Name: Dune
+Path: map/map/sary03_new.7z
+TileSize: 128
+-------------------
+ID: 12880
+Name: Unknown
+Path: map/map/fairylandPK-10.7z
+TileSize: 256
+-------------------
+ID: 12881
+Name: Unknown
+Path: map/map/2025love01_new.7z
+TileSize: 128
+-------------------
+ID: 12678
+Name: Unknown
+Path: map/map/mine.7z
+TileSize: 256
+-------------------
+ID: 12815
+Name: WarringLands
+Path: map/map/faction02_new.7z
+TileSize: 128
+-------------------
+ID: 12816
+Name: WarringLandsFinal
+Path: map/map/faction03_new.7z
+TileSize: 128
+-------------------
+ID: 12883
+Name: Unknown
+Path: map/map/pirate03_new.7z
+TileSize: 128
+-------------------
+ID: 12884
+Name: Unknown
+Path: map/map/riskisland.7z
+TileSize: 256
+-------------------
+ID: 11111
+Name: Unknown
+Path: map/map/valentine_new.7z
+TileSize: 128
+-------------------
+ID: 12885
+Name: Unknown
+Path: map/map/2025summer_new.7z
+TileSize: 128
+-------------------
+ID: 13001
+Name: Unknown
+Path: map/map/sdragon_new.7z
+TileSize: 128
+-------------------
+ID: 13002
+Name: Unknown
+Path: map/map/fairylandPK-09.7z
+TileSize: 256
+-------------------
+ID: 13024
+Name: Unknown
+Path: map/map/7godmind.7z
+TileSize: 128
+-------------------
+ID: 13025
+Name: Unknown
+Path: map/map/Dgate.7z
+TileSize: 128
+-------------------
+ID: 13026
+Name: Unknown
+Path: map/map/faction01_new.7z
+TileSize: 128
+-------------------
+ID: 13027
+Name: Unknown
+Path: map/map/monk03_new.7z
+TileSize: 128
+-------------------
+ID: 13028
+Name: Unknown
+Path: map/map/qingqiu_new.7z
+TileSize: 128
+-------------------
+ID: 13029
+Name: Unknown
+Path: map/map/clanwar_new.7z
+TileSize: 128
+-------------------
+ID: 13030
+Name: Unknown
+Path: map/map/flower.7z
+TileSize: 256
+-------------------
+ID: 10787
+Name: Unknown
+Path: map/map/faction01_new.7z
+TileSize: 128
+-------------------
+ID: 12608
+Name: Unknown
+Path: map/map/qingqiu_new.7z
+TileSize: 128
+-------------------
+ID: 12907
+Name: Unknown
+Path: map/map/ninja02_new.7z
+TileSize: 128
+-------------------
+ID: 12908
+Name: Unknown
+Path: map/map/newcopy02_new.7z
+TileSize: 128
+-------------------
+ID: 12909
+Name: Unknown
+Path: map/map/newcopy03_new.7z
+TileSize: 128
+-------------------
+ID: 12910
+Name: Unknown
+Path: map/map/fairylandPK-04.7z
+TileSize: 256
+-------------------
+ID: 12911
+Name: Unknown
+Path: map/map/fairylandPK-05.7z
+TileSize: 256
+-------------------
+ID: 12912
+Name: Unknown
+Path: map/map/fairylandPK-06.7z
+TileSize: 256
+-------------------
+ID: 12913
+Name: Unknown
+Path: map/map/fairylandPK-07.7z
+TileSize: 256
+-------------------
+ID: 12914
+Name: Unknown
+Path: map/map/zsjx03_new.7z
+TileSize: 128
+-------------------
+ID: 10027
+Name: FantasyIsland
+Path: map/map/daymap-siege.7z
+TileSize: 256
+-------------------
+ID: 13069
+Name: Unknown
+Path: map/map/kassapa_new.7z
+TileSize: 128
+-------------------
+ID: 13071
+Name: Unknown
+Path: map/map/hell01_new.7z
+TileSize: 128
+-------------------
