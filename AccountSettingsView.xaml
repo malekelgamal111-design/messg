@@ -44,23 +44,23 @@
                             </Grid>
                         </Border>
 
-                        <!-- Map Container with Viewbox for scaling -->
+                        <!-- Map Container - FULL SIZE -->
                         <Border Grid.Row="1"
     Background="#0A0E27"
     ClipToBounds="True"
     HorizontalAlignment="Stretch"
     VerticalAlignment="Stretch"
-    Padding="16">
+    Padding="20">
 
-                            <Viewbox Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
                                 <Image x:Name="MapImage"
-                   Width="800"
-                   Height="800"
                    HorizontalAlignment="Center"
                    VerticalAlignment="Center"
                    RenderOptions.BitmapScalingMode="NearestNeighbor"
-                   Stretch="Fill"/>
-                            </Viewbox>
+                   Stretch="Uniform"
+                   MaxWidth="1600"
+                   MaxHeight="1600"/>
+                            </Grid>
 
                         </Border>
 
